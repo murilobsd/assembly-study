@@ -9,5 +9,5 @@ linguagem Assembly. Os código estão na sintaxe *AT&T* sendo compiladas com
 Apesar de considerar sintaxe do [as][gas] menos legível que do [NASM][nasm],
 com o [NASM][nasm] ficamos restrito a arquitetura *x86*.
 
-gas: https://en.wikipedia.org/wiki/GNU_Assembler
-nasm: https://pt.wikipedia.org/wiki/NASM
+[gas]: https://en.wikipedia.org/wiki/GNU_Assembler
+[nasm]: https://pt.wikipedia.org/wiki/NASM
