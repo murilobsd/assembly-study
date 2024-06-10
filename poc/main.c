@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-int assembly(void);
+int start(void);
 
 int
 main(void)
 {
-	printf("Resultado: %d\n", assembly());
+	printf("Resultado: %d\n", start());
 	return (0);
 }
