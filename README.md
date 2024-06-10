@@ -9,5 +9,11 @@ linguagem Assembly. Os código estão na sintaxe *AT&T* sendo compiladas com
 Apesar de considerar sintaxe do [as][gas] menos legível que do [NASM][nasm],
 com o [NASM][nasm] ficamos restrito a arquitetura *x86*.
 
+## Licença
+
+Assembly é distribuido sob os termos da licença ISC.
+
+Veja [LICENSE](LICENSE)
+
 [gas]: https://en.wikipedia.org/wiki/GNU_Assembler
 [nasm]: https://pt.wikipedia.org/wiki/NASM
