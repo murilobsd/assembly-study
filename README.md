@@ -2,7 +2,7 @@
 
 Nesse repositório você irá encontrar códigos que utilizei para o estudo da
 linguagem Assembly. Os código estão na sintaxe *AT&T* sendo compiladas com
-[as][gas] ou também conhecido como [GAS (GNU Assembler)][gas]. 
+[as][gas] ou também conhecido como [GAS (GNU Assembler)][gas].
 
 ## Pré-requisitos
 
